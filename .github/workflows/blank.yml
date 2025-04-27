@@ -1,0 +1,24 @@
+name: Generate Snake Animation 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every 24 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: harshini1708
+          outputs: |
+            ./github-contribution-grid-snake.svg
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
