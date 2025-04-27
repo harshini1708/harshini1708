@@ -2,8 +2,6 @@
 # Hi, I'm Harshini Pothireddy 👩‍💻  
 **Software Engineer | AI Engineer | Full Stack Developer | Data Scientist | Data Engineer | MLOps Practitioner**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=harshini1708&color=blue)
-
 ---
 
 > ✨ *"Building smart systems, designing scalable platforms, and turning ideas into impactful real-world solutions."*  
@@ -147,15 +145,6 @@ I'm a passionate engineer who thrives at the intersection of **Artificial Intell
 | [Airbnb Big Data Platform](https://github.com/harshini1708/Advanced-Airbnb-Data-Engineering-Platform-with-EMR-dbt-Kafka-and-ML-Forecasting) | Predictive analytics at scale |
 
 ---
-
-# 🐍 Dynamic Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshini1708/harshini1708/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 
 # 📈 Profile Visitors
 
