@@ -3,10 +3,6 @@
 <!-- Animated Header with Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=5D6D7E&center=true&vCenter=true&width=940&lines=Hi+I'm+Harshini+Pothireddy;Software+Engineer+%7C+AI+Engineer+%7C+ML+Engineer;Data+Scientist+%7C+Forward+Deployment+Engineer;Cloud+Solutions+Architect;3%2B+Years+of+Production+Experience;Building+Enterprise+AI%2FML+Systems" alt="Typing SVG" />
 
-<!-- Women in Tech Animation -->
-<br><br>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
-
 <!-- Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
@@ -34,26 +30,13 @@
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="900">
-
 </div>
 
 ---
 
 ## About Me
 
-<div align="center">
-<img alt="Women Coding" width="600" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
-</div>
-
-<br>
-
 I'm a **Software Engineer**, **Data Scientist**, **AI Engineer**, **Machine Learning Engineer**, and **Forward Deployment Engineer** with **3+ years of experience** building enterprise-scale cloud infrastructure, AI/ML systems, and data platforms at **Oracle/AWS** and **CCC Intelligent Solutions**. Currently pursuing my **Master's in Computer Software Engineering (Data Science Specialization)** at San Jose State University.
-
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
-</div>
 
 ### What I Bring to the Table:
 
@@ -78,10 +61,6 @@ Reduced deployment time **83%** (30min→5min), API latency **40-60%**, and infr
 
 #### Research & Innovation
 Published research on **distributed caching** and **deep learning for medical imaging**, with expertise in **PyTorch, TensorFlow, and transformer architectures**
-
-<br>
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
 
 </td>
 </tr>
@@ -118,20 +97,11 @@ Published research on **distributed caching** and **deep learning for medical im
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%">
-
 ---
 
 ## Professional Experience
 
-<div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600">
-</div>
-
-<br>
-
-### 🏢 **AI/ML Software Engineer Intern** | CCC Intelligent Solutions
+### <img src="https://marketplace.guidewire.com/sfc/servlet.shepherd/version/download/0683n00000ShXv5AAF" width="30" height="30" alt="CCC Logo"/> **AI/ML Software Engineer Intern** | CCC Intelligent Solutions
 *Jun 2025 - Present | Chicago, IL*
 
 <details open>
@@ -163,7 +133,7 @@ Published research on **distributed caching** and **deep learning for medical im
 
 ---
 
-### 🎓 **Graduate Research Assistant - ML/Data Science** | San Jose State University
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/San_Jose_State_Spartans_logo.svg/1200px-San_Jose_State_Spartans_logo.svg.png" width="30" height="30" alt="SJSU Logo"/> **Graduate Research Assistant - ML/Data Science** | San Jose State University
 *Dec 2024 - Apr 2025 | San Jose, CA*
 
 <details open>
@@ -195,7 +165,7 @@ Published research on **distributed caching** and **deep learning for medical im
 
 ---
 
-### ⚡ **Software Engineer II - Cloud & Data Engineering** | Oracle Corporation
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/1280px-Oracle_Logo.svg.png" width="80" height="30" alt="Oracle Logo"/> **Software Engineer II - Cloud & Data Engineering** | Oracle Corporation
 *Apr 2022 - Jan 2024 | Bengaluru, India*
 
 <details open>
@@ -231,7 +201,7 @@ Published research on **distributed caching** and **deep learning for medical im
 
 ---
 
-### 💼 **Software Engineer Intern - Data Systems** | CGI Inc.
+### <img src="https://downtownlansing.org/sites/default/files/business-images/cgi-technologies-and-solutions_0.jpeg" width="30" height="30" alt="CGI Logo"/> **Software Engineer Intern - Data Systems** | CGI Inc.
 *May 2021 - Apr 2022 | Bengaluru, India*
 
 <details open>
@@ -263,25 +233,15 @@ Published research on **distributed caching** and **deep learning for medical im
 
 </details>
 
-<div align="center">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
-</div>
-
 ---
 
 ## Education
-
-<div align="center">
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500">
-</div>
-
-<br>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 **Master of Science in Computer Software Engineering**
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/San_Jose_State_Spartans_logo.svg/1200px-San_Jose_State_Spartans_logo.svg.png" width="40" height="40" alt="SJSU Logo"/> **Master of Science in Computer Software Engineering**
 **San Jose State University**
 *Jan 2024 - Dec 2025* | **GPA: 3.6/4.0**
 
@@ -292,7 +252,7 @@ Published research on **distributed caching** and **deep learning for medical im
 </td>
 <td width="50%">
 
-### **Bachelor of Engineering in Electronics and Communication**
+### <img src="https://www.eduopinions.com/wp-content/uploads/2018/10/PESUniversity-logo.jpg" width="40" height="40" alt="PES Logo"/> **Bachelor of Engineering in Electronics and Communication**
 **PES University**
 *Aug 2018 - Jun 2022* | *Bengaluru, India*
 
@@ -304,19 +264,9 @@ Published research on **distributed caching** and **deep learning for medical im
 </tr>
 </table>
 
-<div align="center">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
-</div>
-
 ---
 
 ## Technical Skills
-
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600">
-</div>
-
-<br>
 
 ### **Programming Languages**
 
@@ -667,19 +617,9 @@ Performance Tuning      ██████████████████�
 
 </details>
 
-<div align="center">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
-</div>
-
 ---
 
 ## Certifications
-
-<div align="center">
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
-</div>
-
-<br>
 
 <table>
 <tr>
@@ -709,19 +649,9 @@ Performance Tuning      ██████████████████�
 </tr>
 </table>
 
-<div align="center">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
-</div>
-
 ---
 
 ## Featured Projects
-
-<div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
-</div>
-
-<br>
 
 ### **Production-Grade Projects**
 
@@ -839,19 +769,9 @@ Performance Tuning      ██████████████████�
 | **Multimodal RAG System** | Advanced retrieval-augmented generation with vector embeddings | ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-00ADD8?style=flat-square) |
 | **Airbnb Data Engineering Platform** | End-to-end data platform with EMR, dbt, Kafka, and ML forecasting | ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) |
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
-</div>
-
 ---
 
 ## Publications & Research
-
-<div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
-</div>
-
-<br>
 
 - **"Evaluating A/B Testing Frameworks for Web-Scale Recommendation Systems"** - IEEE Big Data 2024
 - **"Detection of Pneumonia Using Deep Learning and ML Techniques"** - IJRPR, April 2025
@@ -860,12 +780,6 @@ Performance Tuning      ██████████████████�
 ---
 
 ## Leadership & Impact
-
-<div align="center">
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
-</div>
-
-<br>
 
 <p align="left">
 <img src="https://img.shields.io/badge/SWE-Society_of_Women_Engineers-00629B?style=for-the-badge" alt="SWE"/>
@@ -880,17 +794,11 @@ Performance Tuning      ██████████████████�
 - **Top 15 Finalist** - Microsoft Azure AI Hackathon (2025) for real-time anomaly detection pipeline
 - **Meta Llama3 Hackathon** - Top 15 finish building analytics system using multi-agent RAG architecture (2025)
 
-<div align="center">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
-</div>
-
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
 ### **Performance Metrics**
 
@@ -925,19 +833,11 @@ Performance Tuning      ██████████████████�
 
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
-</div>
-
 ---
 
 ## Let's Connect
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
-
-<br>
 
 ### I'm always open to discussing **AI/ML projects**, **Machine Learning Engineering**, **Data Science**, **Forward Deployment Engineering**, **cloud architecture**, **data engineering**, and **software development opportunities**
 
@@ -984,8 +884,6 @@ San Jose, California
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
 ### *"Code with passion. Engineer with purpose. Create with vision."*
 
