@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Harshini+Pothireddy;Software+Engineer+%7C+AI%2FML+Engineer;Data+Scientist+%7C+Cloud+Solutions+Architect;3%2B+Years+of+Production+Experience;Building+Enterprise+AI%2FML+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+I'm+Harshini+Pothireddy;Software+Engineer+%7C+AI%2FML+Engineer;Data+Scientist+%7C+Cloud+Solutions+Architect;3%2B+Years+of+Production+Experience;Building+Enterprise+AI%2FML+Systems" alt="Typing SVG" />
+
+<!-- MLOps Pipeline Animation -->
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
 <!-- Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
@@ -37,73 +41,109 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+<img alt="MLOps Pipeline" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
+
+<br>
 
 I'm a **Software Engineer and Data Scientist** with **3+ years of experience** building enterprise-scale cloud infrastructure, AI/ML systems, and data platforms at **Oracle/AWS** and **CCC Intelligent Solutions**. Currently pursuing my **Master's in Computer Software Engineering (Data Science Specialization)** at San Jose State University.
 
-### 🎯 What I Bring to the Table:
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</div>
 
-- **🏗️ Enterprise Architecture**: Designed and deployed cloud-native microservices on **AWS EKS** and **OCI Kubernetes** serving **10K+ customers** and processing **2M+ daily API requests** with **99.8% uptime**
-- **🤖 AI/ML Engineering**: Built production ML pipelines for **multimodal fraud detection**, **NLP-based risk intelligence**, and **computer vision systems** achieving **90%+ accuracy**
-- **📊 Data Engineering**: Developed scalable data platforms processing **300+ claims daily**, optimized **MongoDB & PostgreSQL** queries reducing latency **40-75%**, and automated infrastructure provisioning with **Terraform & CloudFormation**
-- **⚡ Performance Optimization**: Reduced deployment time **83%** (30min→5min), API latency **40-60%**, and infrastructure setup time **75%** (4hrs→15min) through intelligent caching, blue-green deployments, and automation
-- **🔬 Research & Innovation**: Published research on **distributed caching** and **deep learning for medical imaging**, with expertise in **PyTorch, TensorFlow, and transformer architectures**
-
-### 💡 Core Competencies:
+### What I Bring to the Table:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-```
-🎯 Production ML/AI Systems
-🎯 Cloud Infrastructure (AWS/Azure/GCP/OCI)
-🎯 Distributed Systems & Caching
-🎯 Kubernetes & Container Orchestration
-🎯 Data Engineering & Analytics
-```
+#### Enterprise Architecture
+Designed and deployed cloud-native microservices on **AWS EKS** and **OCI Kubernetes** serving **10K+ customers** and processing **2M+ daily API requests** with **99.8% uptime**
+
+#### AI/ML Engineering
+Built production ML pipelines for **multimodal fraud detection**, **NLP-based risk intelligence**, and **computer vision systems** achieving **90%+ accuracy**
+
+#### Data Engineering
+Developed scalable data platforms processing **300+ claims daily**, optimized **MongoDB & PostgreSQL** queries reducing latency **40-75%**, and automated infrastructure provisioning with **Terraform & CloudFormation**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-```
-🎯 CI/CD & DevOps Automation
-🎯 Microservices Architecture
-🎯 API Development (REST/GraphQL)
-🎯 PyTorch/TensorFlow/scikit-learn
-🎯 SQL & NoSQL Databases
-```
+#### Performance Optimization
+Reduced deployment time **83%** (30min→5min), API latency **40-60%**, and infrastructure setup time **75%** (4hrs→15min) through intelligent caching, blue-green deployments, and automation
+
+#### Research & Innovation
+Published research on **distributed caching** and **deep learning for medical imaging**, with expertise in **PyTorch, TensorFlow, and transformer architectures**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 </td>
 </tr>
 </table>
+
+### Core Competencies:
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="left" style="border: 2px solid #404040; background: #0d1117; padding: 20px;">
+
+**Production ML/AI Systems**
+**Cloud Infrastructure** (AWS/Azure/GCP/OCI)
+**Distributed Systems & Caching**
+**Kubernetes & Container Orchestration**
+**Data Engineering & Analytics**
+
+</td>
+<td width="50%" align="left" style="border: 2px solid #404040; background: #0d1117; padding: 20px;">
+
+**CI/CD & DevOps Automation**
+**Microservices Architecture**
+**API Development** (REST/GraphQL)
+**PyTorch/TensorFlow/scikit-learn**
+**SQL & NoSQL Databases**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+</div>
+
+<br>
 
 ### <img src="https://www.cccis.com/content/dam/ccc/global-images/ccc-intelligent-solutions-logo.png" width="30" height="30"/> **AI/ML Software Engineer Intern** | CCC Intelligent Solutions
 *Jun 2025 - Present | Chicago, IL*
 
 <details open>
-<summary><b>🚀 Building multimodal AI systems for insurance claims processing</b></summary>
+<summary><b>Building multimodal AI systems for insurance claims processing</b></summary>
 
 <br>
 
 <div align="left">
 
-- 🎯 Optimized **PyTorch ViT inference** from 180ms→52ms using **torch.compile** and **Nsight profiling**
-- 🚀 Implemented **INT8/FP16 quantization** achieving **4x memory reduction** with only **1.6% accuracy degradation**
-- ⚡ Built inference microservice handling **200+ concurrent requests at 99.2% uptime** via **FastAPI + Docker**
-- 🔍 Profiled **CUDA kernel performance** identifying memory bandwidth bottlenecks in attention mechanisms
-- 📊 Developed bias evaluation framework analyzing **demographic disparity by 15%** across protected attributes
+- Optimized **PyTorch ViT inference** from 180ms→52ms using **torch.compile** and **Nsight profiling**
+- Implemented **INT8/FP16 quantization** achieving **4x memory reduction** with only **1.6% accuracy degradation**
+- Built inference microservice handling **200+ concurrent requests at 99.2% uptime** via **FastAPI + Docker**
+- Profiled **CUDA kernel performance** identifying memory bandwidth bottlenecks in attention mechanisms
+- Developed bias evaluation framework analyzing **demographic disparity by 15%** across protected attributes
 
 **Tech Stack**:
 <p align="left">
@@ -125,18 +165,18 @@ I'm a **Software Engineer and Data Scientist** with **3+ years of experience** b
 *Dec 2024 - Apr 2025 | San Jose, CA*
 
 <details open>
-<summary><b>🔬 Distributed Systems & Deep Learning Research</b></summary>
+<summary><b>Distributed Systems & Deep Learning Research</b></summary>
 
 <br>
 
 <div align="left">
 
-- 🧠 Implemented **federated learning with differential privacy** in PyTorch achieving **94% accuracy** on 5-node setup
-- ⚡ Developed **multi-GPU training pipeline** using **DistributedDataParallel** reducing epoch time **3.2x on 4x A100s**
-- 📊 Benchmarked **FP16 and INT8 quantization** schemes analyzing accuracy-latency tradeoffs for edge deployment
-- 🔄 Profiled **inter-GPU communication** with **NCCL traces** optimizing all-reduce operations for synchronization
-- 📈 Implemented **Python REST APIs with Redis Cluster** achieving **95% consistency** across 5 AWS distributed nodes
-- ☁️ Automated **AWS infrastructure provisioning via Terraform & CloudFormation** reducing setup time **75% (3hrs→15min)**
+- Implemented **federated learning with differential privacy** in PyTorch achieving **94% accuracy** on 5-node setup
+- Developed **multi-GPU training pipeline** using **DistributedDataParallel** reducing epoch time **3.2x on 4x A100s**
+- Benchmarked **FP16 and INT8 quantization** schemes analyzing accuracy-latency tradeoffs for edge deployment
+- Profiled **inter-GPU communication** with **NCCL traces** optimizing all-reduce operations for synchronization
+- Implemented **Python REST APIs with Redis Cluster** achieving **95% consistency** across 5 AWS distributed nodes
+- Automated **AWS infrastructure provisioning via Terraform & CloudFormation** reducing setup time **75% (3hrs→15min)**
 
 **Tech Stack**:
 <p align="left">
@@ -157,19 +197,19 @@ I'm a **Software Engineer and Data Scientist** with **3+ years of experience** b
 *Apr 2022 - Jan 2024 | Bengaluru, India*
 
 <details open>
-<summary><b>☁️ Enterprise cloud infrastructure & Kubernetes orchestration</b></summary>
+<summary><b>Enterprise cloud infrastructure & Kubernetes orchestration</b></summary>
 
 <br>
 
 <div align="left">
 
-- 🏗️ Delivered **Java Spring Boot APIs** on **OCI Kubernetes** serving **10K+ customers** processing **2M+ daily API requests**
-- 🚀 Orchestrated **blue-green deployments with Helm** reducing release cycles **40%** while maintaining **99.8% uptime SLA**
-- ⚡ Optimized **PostgreSQL queries and MongoDB storage** reducing API response time **75% (8sec→2sec)**
-- ☁️ Automated **OCI infrastructure provisioning with Terraform** reducing cloud environment setup **from 4hrs to 15min**
-- 🔐 Implemented **OAuth 2.0 RBAC with Spring Security** securing API access for **50+ business units** across regions
-- 🔄 Integrated **cross-region storage APIs** connecting **OCI block storage with AWS S3** for hybrid data management
-- 📊 Built **data pipelines** on OCI processing **40K+ daily transactions** with Python achieving **99.5% data quality**
+- Delivered **Java Spring Boot APIs** on **OCI Kubernetes** serving **10K+ customers** processing **2M+ daily API requests**
+- Orchestrated **blue-green deployments with Helm** reducing release cycles **40%** while maintaining **99.8% uptime SLA**
+- Optimized **PostgreSQL queries and MongoDB storage** reducing API response time **75% (8sec→2sec)**
+- Automated **OCI infrastructure provisioning with Terraform** reducing cloud environment setup **from 4hrs to 15min**
+- Implemented **OAuth 2.0 RBAC with Spring Security** securing API access for **50+ business units** across regions
+- Integrated **cross-region storage APIs** connecting **OCI block storage with AWS S3** for hybrid data management
+- Built **data pipelines** on OCI processing **40K+ daily transactions** with Python achieving **99.5% data quality**
 
 **Tech Stack**:
 <p align="left">
@@ -193,18 +233,18 @@ I'm a **Software Engineer and Data Scientist** with **3+ years of experience** b
 *May 2021 - Apr 2022 | Bengaluru, India*
 
 <details open>
-<summary><b>🏥 Healthcare data systems & API development</b></summary>
+<summary><b>Healthcare data systems & API development</b></summary>
 
 <br>
 
 <div align="left">
 
-- 🏥 Developed **GraphQL backend on AWS Lambda** serving **500+ users** managing **100K+ patient records** with **MySQL RDS**
-- 📊 Optimized **MySQL schema with composite indexes** reducing analytical query time **67% (12sec→4sec)**
-- 🚀 Deployed **Docker containers via Jenkins CI/CD** across 3 AWS environments achieving **99.7% deployment success**
-- ✅ Contributed to **test automation with JUnit and pytest** achieving **85% coverage** reducing defects **42%**
-- 📈 Analyzed **12K patient records** with R and SQL to detect 30-day readmission risks, informing care intervention strategy
-- 🔧 Built **Spring Boot REST APIs** serving 500+ users with **78% code coverage** via comprehensive JUnit tests
+- Developed **GraphQL backend on AWS Lambda** serving **500+ users** managing **100K+ patient records** with **MySQL RDS**
+- Optimized **MySQL schema with composite indexes** reducing analytical query time **67% (12sec→4sec)**
+- Deployed **Docker containers via Jenkins CI/CD** across 3 AWS environments achieving **99.7% deployment success**
+- Contributed to **test automation with JUnit and pytest** achieving **85% coverage** reducing defects **42%**
+- Analyzed **12K patient records** with R and SQL to detect 30-day readmission risks, informing care intervention strategy
+- Built **Spring Boot REST APIs** serving 500+ users with **78% code coverage** via comprehensive JUnit tests
 
 **Tech Stack**:
 <p align="left">
@@ -221,11 +261,19 @@ I'm a **Software Engineer and Data Scientist** with **3+ years of experience** b
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
 
 ---
 
-## 🎓 Education
+## Education
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500">
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -242,7 +290,7 @@ I'm a **Software Engineer and Data Scientist** with **3+ years of experience** b
 </td>
 <td width="50%">
 
-### 🎓 **Bachelor of Engineering in Electronics and Communication**
+### **Bachelor of Engineering in Electronics and Communication**
 **PES University**
 *Aug 2018 - Jun 2022* | *Bengaluru, India*
 
@@ -254,13 +302,24 @@ I'm a **Software Engineer and Data Scientist** with **3+ years of experience** b
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+<br>
 
 ### **Programming Languages**
 
@@ -611,19 +670,25 @@ Performance Tuning      ██████████████████�
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="800">
+</div>
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
+</div>
+
+<br>
 
 <table>
 <tr>
 <td width="50%">
 
-### ☁️ **Cloud Certifications**
+### **Cloud Certifications**
 
 <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SA"/>
 <img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS ML"/>
@@ -636,7 +701,7 @@ Performance Tuning      ██████████████████�
 </td>
 <td width="50%">
 
-### 📊 **Data & Analytics Certifications**
+### **Data & Analytics Certifications**
 
 <img src="https://img.shields.io/badge/Snowflake-SnowPro_Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 <img src="https://img.shields.io/badge/Tableau-Data_Analyst-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
@@ -647,21 +712,27 @@ Performance Tuning      ██████████████████�
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+</div>
 
-### 🔥 **Production-Grade Projects**
+<br>
+
+### **Production-Grade Projects**
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🤖 **MediScan: Medical Image Classification**
+#### **MediScan: Medical Image Classification**
 [![Tech](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/TorchScript-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/A100_GPU-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/harshini1708)
@@ -672,7 +743,7 @@ Performance Tuning      ██████████████████�
 </td>
 <td width="50%">
 
-#### 🎓 **EduRec: Course Recommendation Engine**
+#### **EduRec: Course Recommendation Engine**
 [![Tech](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/INT8-005CED?style=flat-square&logo=onnx&logoColor=white)](https://github.com/harshini1708)
@@ -686,7 +757,7 @@ Performance Tuning      ██████████████████�
 <tr>
 <td width="50%">
 
-#### 💻 **CodeAssist: Offline Code Completion**
+#### **CodeAssist: Offline Code Completion**
 [![Tech](https://img.shields.io/badge/CodeBERT-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.com/harshini1708)
@@ -697,7 +768,7 @@ Performance Tuning      ██████████████████�
 </td>
 <td width="50%">
 
-#### 💳 **FraudGuard: Fraud Detection API**
+#### **FraudGuard: Fraud Detection API**
 [![Tech](https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/INT8-005CED?style=flat-square&logo=onnx&logoColor=white)](https://github.com/harshini1708)
@@ -711,7 +782,7 @@ Performance Tuning      ██████████████████�
 <tr>
 <td width="50%">
 
-#### 📊 **StorageOptimizer: Cloud Cost Predictor**
+#### **StorageOptimizer: Cloud Cost Predictor**
 [![Tech](https://img.shields.io/badge/Prophet-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/harshini1708)
@@ -722,7 +793,7 @@ Performance Tuning      ██████████████████�
 </td>
 <td width="50%">
 
-#### 🔍 **InfraWatch: Anomaly Detection System**
+#### **InfraWatch: Anomaly Detection System**
 [![Tech](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://github.com/harshini1708)
@@ -736,7 +807,7 @@ Performance Tuning      ██████████████████�
 <tr>
 <td width="50%">
 
-#### 📈 **DataFlowAnalyzer: ML Pipeline Optimizer**
+#### **DataFlowAnalyzer: ML Pipeline Optimizer**
 [![Tech](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/harshini1708)
@@ -747,7 +818,7 @@ Performance Tuning      ██████████████████�
 </td>
 <td width="50%">
 
-#### 🗄️ **DistributedCache: Multi-Node Consistency**
+#### **DistributedCache: Multi-Node Consistency**
 [![Tech](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://github.com/harshini1708)
 [![Tech](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/harshini1708)
@@ -759,33 +830,45 @@ Performance Tuning      ██████████████████�
 </tr>
 </table>
 
-### 🌟 **Additional Projects**
+### **Additional Projects**
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🧠 **SkillSync - AI Knowledge Assistant** | Personalized AI-driven learning assistant with adaptive content delivery | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| 🚀 **FullStack Boilerplate** | Production-ready cloud template with FastAPI backend and React frontend | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| 💬 **Real-Time Chat with Kafka** | Scalable event-driven chat platform with Kubernetes orchestration | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| ☁️ **CloudTrack Serverless Dashboard** | Agile project management platform built on AWS serverless architecture | ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) |
-| 🏥 **MedViT X** | Explainable vision transformers for medical imaging with attention visualization | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ViT](https://img.shields.io/badge/-ViT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| 🤖 **Multimodal RAG System** | Advanced retrieval-augmented generation with vector embeddings | ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-00ADD8?style=flat-square) |
-| 📊 **Airbnb Data Engineering Platform** | End-to-end data platform with EMR, dbt, Kafka, and ML forecasting | ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) |
+| **SkillSync - AI Knowledge Assistant** | Personalized AI-driven learning assistant with adaptive content delivery | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **FullStack Boilerplate** | Production-ready cloud template with FastAPI backend and React frontend | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Real-Time Chat with Kafka** | Scalable event-driven chat platform with Kubernetes orchestration | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **CloudTrack Serverless Dashboard** | Agile project management platform built on AWS serverless architecture | ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) |
+| **MedViT X** | Explainable vision transformers for medical imaging with attention visualization | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ViT](https://img.shields.io/badge/-ViT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Multimodal RAG System** | Advanced retrieval-augmented generation with vector embeddings | ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-00ADD8?style=flat-square) |
+| **Airbnb Data Engineering Platform** | End-to-end data platform with EMR, dbt, Kafka, and ML forecasting | ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
----
-
-## 📝 Publications & Research
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="80" />
-
-- 📄 **"Evaluating A/B Testing Frameworks for Web-Scale Recommendation Systems"** - IEEE Big Data 2024
-- 📄 **"Detection of Pneumonia Using Deep Learning and ML Techniques"** - IJRPR, April 2025
-- 📄 **"Distributed Caching for Cloud Infrastructure"** - Graduate Capstone Project, SJSU (Published on GitHub)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
 
 ---
 
-## 🏅 Leadership & Impact
+## Publications & Research
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+</div>
+
+<br>
+
+- **"Evaluating A/B Testing Frameworks for Web-Scale Recommendation Systems"** - IEEE Big Data 2024
+- **"Detection of Pneumonia Using Deep Learning and ML Techniques"** - IJRPR, April 2025
+- **"Distributed Caching for Cloud Infrastructure"** - Graduate Capstone Project, SJSU (Published on GitHub)
+
+---
+
+## Leadership & Impact
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="400">
+</div>
+
+<br>
 
 <p align="left">
 <img src="https://img.shields.io/badge/SWE-Society_of_Women_Engineers-00629B?style=for-the-badge" alt="SWE"/>
@@ -794,48 +877,50 @@ Performance Tuning      ██████████████████�
 <img src="https://img.shields.io/badge/Workshops-180%2B_Students-4CAF50?style=for-the-badge" alt="Workshops"/>
 </p>
 
-- 👥 **Core Member** - Society of Women Engineers & Girls Who Code, SJSU (2024-25)
-- 👨‍🏫 **Graduate Teaching Assistant** for Data Structures (Fall 2024) - Mentored 45+ students in Python/algorithms
-- 🎤 **Organized 5+ AI/ML workshops** for 180+ students covering deep learning, MLOps, and cloud deployment
-- 🏆 **Top 15 Finalist** - Microsoft Azure AI Hackathon (2025) for real-time anomaly detection pipeline
-- 🥇 **Meta Llama3 Hackathon** - Top 15 finish building analytics system using multi-agent RAG architecture (2025)
+- **Core Member** - Society of Women Engineers & Girls Who Code, SJSU (2024-25)
+- **Graduate Teaching Assistant** for Data Structures (Fall 2024) - Mentored 45+ students in Python/algorithms
+- **Organized 5+ AI/ML workshops** for 180+ students covering deep learning, MLOps, and cloud deployment
+- **Top 15 Finalist** - Microsoft Azure AI Hackathon (2025) for real-time anomaly detection pipeline
+- **Meta Llama3 Hackathon** - Top 15 finish building analytics system using multi-agent RAG architecture (2025)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### 📈 **Performance Metrics**
+### **Performance Metrics**
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshini1708&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFF"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshini1708&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF"/>
 </p>
 
-### 🔥 **Streak Stats**
+### **Streak Stats**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshini1708&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 </p>
 
-### 🏆 **Trophies**
+### **Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshini1708&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
-### 📈 **Contribution Graph**
+### **Contribution Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshini1708&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
 </p>
 
-### 🐍 **Contribution Snake**
+### **Contribution Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshini1708/harshini1708/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -843,17 +928,21 @@ Performance Tuning      ██████████████████�
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
 
-### I'm always open to discussing **AI/ML projects**, **cloud architecture**, **data engineering**, and **software development opportunities**!
+<br>
+
+### I'm always open to discussing **AI/ML projects**, **cloud architecture**, **data engineering**, and **software development opportunities**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshinipr/">
@@ -901,11 +990,13 @@ San Jose, California
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### 💭 *"Code with passion. Engineer with purpose. Create with vision."*
+### *"Code with passion. Engineer with purpose. Create with vision."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!;Star+%E2%AD%90+my+repositories+if+you+find+them+useful!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Star+my+repositories+if+you+find+them+useful!" alt="Typing SVG" />
 
-**⭐ If you find my work interesting, feel free to star some repositories!**
+<br>
+
+**If you find my work interesting, feel free to star some repositories**
 
 <!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
