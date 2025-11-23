@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+I'm+Harshini+Pothireddy;Software+Engineer+%7C+AI%2FML+Engineer;Data+Scientist+%7C+Cloud+Solutions+Architect;3%2B+Years+of+Production+Experience;Building+Enterprise+AI%2FML+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=5D6D7E&center=true&vCenter=true&width=940&lines=Hi+I'm+Harshini+Pothireddy;Software+Engineer+%7C+AI+Engineer+%7C+ML+Engineer;Data+Scientist+%7C+Forward+Deployment+Engineer;Cloud+Solutions+Architect;3%2B+Years+of+Production+Experience;Building+Enterprise+AI%2FML+Systems" alt="Typing SVG" />
 
-<!-- MLOps Pipeline Animation -->
+<!-- Women in Tech Animation -->
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 
 <!-- Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
@@ -35,7 +35,7 @@
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="900">
 
 </div>
 
@@ -44,15 +44,15 @@
 ## About Me
 
 <div align="center">
-<img alt="MLOps Pipeline" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img alt="Women Coding" width="600" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 </div>
 
 <br>
 
-I'm a **Software Engineer and Data Scientist** with **3+ years of experience** building enterprise-scale cloud infrastructure, AI/ML systems, and data platforms at **Oracle/AWS** and **CCC Intelligent Solutions**. Currently pursuing my **Master's in Computer Software Engineering (Data Science Specialization)** at San Jose State University.
+I'm a **Software Engineer**, **Data Scientist**, **AI Engineer**, **Machine Learning Engineer**, and **Forward Deployment Engineer** with **3+ years of experience** building enterprise-scale cloud infrastructure, AI/ML systems, and data platforms at **Oracle/AWS** and **CCC Intelligent Solutions**. Currently pursuing my **Master's in Computer Software Engineering (Data Science Specialization)** at San Jose State University.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
 </div>
 
 ### What I Bring to the Table:
@@ -64,10 +64,10 @@ I'm a **Software Engineer and Data Scientist** with **3+ years of experience** b
 #### Enterprise Architecture
 Designed and deployed cloud-native microservices on **AWS EKS** and **OCI Kubernetes** serving **10K+ customers** and processing **2M+ daily API requests** with **99.8% uptime**
 
-#### AI/ML Engineering
+#### **AI/ML Engineering** & **Machine Learning Engineering**
 Built production ML pipelines for **multimodal fraud detection**, **NLP-based risk intelligence**, and **computer vision systems** achieving **90%+ accuracy**
 
-#### Data Engineering
+#### **Data Engineering** & **Data Science**
 Developed scalable data platforms processing **300+ claims daily**, optimized **MongoDB & PostgreSQL** queries reducing latency **40-75%**, and automated infrastructure provisioning with **Terraform & CloudFormation**
 
 </td>
@@ -81,7 +81,7 @@ Published research on **distributed caching** and **deep learning for medical im
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
 
 </td>
 </tr>
@@ -95,7 +95,8 @@ Published research on **distributed caching** and **deep learning for medical im
 <tr>
 <td width="50%" align="left" style="border: 2px solid #404040; background: #0d1117; padding: 20px;">
 
-**Production ML/AI Systems**
+**Production ML/AI Systems** | **Machine Learning Engineering**
+**Data Science** | **AI Engineering**
 **Cloud Infrastructure** (AWS/Azure/GCP/OCI)
 **Distributed Systems & Caching**
 **Kubernetes & Container Orchestration**
@@ -104,6 +105,7 @@ Published research on **distributed caching** and **deep learning for medical im
 </td>
 <td width="50%" align="left" style="border: 2px solid #404040; background: #0d1117; padding: 20px;">
 
+**Software Engineering** | **Forward Deployment Engineering**
 **CI/CD & DevOps Automation**
 **Microservices Architecture**
 **API Development** (REST/GraphQL)
@@ -117,19 +119,19 @@ Published research on **distributed caching** and **deep learning for medical im
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%">
 
 ---
 
 ## Professional Experience
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600">
 </div>
 
 <br>
 
-### <img src="https://www.cccis.com/content/dam/ccc/global-images/ccc-intelligent-solutions-logo.png" width="30" height="30"/> **AI/ML Software Engineer Intern** | CCC Intelligent Solutions
+### 🏢 **AI/ML Software Engineer Intern** | CCC Intelligent Solutions
 *Jun 2025 - Present | Chicago, IL*
 
 <details open>
@@ -161,7 +163,7 @@ Published research on **distributed caching** and **deep learning for medical im
 
 ---
 
-### <img src="https://logos-world.net/wp-content/uploads/2021/10/San-Jose-State-University-Symbol.png" width="30" height="30"/> **Graduate Research Assistant** | San Jose State University
+### 🎓 **Graduate Research Assistant - ML/Data Science** | San Jose State University
 *Dec 2024 - Apr 2025 | San Jose, CA*
 
 <details open>
@@ -193,7 +195,7 @@ Published research on **distributed caching** and **deep learning for medical im
 
 ---
 
-### <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="40" height="20"/> **Software Engineer II** | Oracle Corporation
+### ⚡ **Software Engineer II - Cloud & Data Engineering** | Oracle Corporation
 *Apr 2022 - Jan 2024 | Bengaluru, India*
 
 <details open>
@@ -229,7 +231,7 @@ Published research on **distributed caching** and **deep learning for medical im
 
 ---
 
-### <img src="https://logowik.com/content/uploads/images/cgi-inc9297.logowik.com.webp" width="30" height="30"/> **Software Engineer Intern** | CGI Inc.
+### 💼 **Software Engineer Intern - Data Systems** | CGI Inc.
 *May 2021 - Apr 2022 | Bengaluru, India*
 
 <details open>
@@ -262,7 +264,7 @@ Published research on **distributed caching** and **deep learning for medical im
 </details>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
 </div>
 
 ---
@@ -270,7 +272,7 @@ Published research on **distributed caching** and **deep learning for medical im
 ## Education
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500">
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500">
 </div>
 
 <br>
@@ -279,7 +281,7 @@ Published research on **distributed caching** and **deep learning for medical im
 <tr>
 <td width="50%">
 
-### <img src="https://logos-world.net/wp-content/uploads/2021/10/San-Jose-State-University-Symbol.png" width="30" height="30"/> **Master of Science in Computer Software Engineering**
+### 🎓 **Master of Science in Computer Software Engineering**
 **San Jose State University**
 *Jan 2024 - Dec 2025* | **GPA: 3.6/4.0**
 
@@ -303,7 +305,7 @@ Published research on **distributed caching** and **deep learning for medical im
 </table>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
 </div>
 
 ---
@@ -311,12 +313,7 @@ Published research on **distributed caching** and **deep learning for medical im
 ## Technical Skills
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600">
 </div>
 
 <br>
@@ -671,7 +668,7 @@ Performance Tuning      ██████████████████�
 </details>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="800">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
 </div>
 
 ---
@@ -679,7 +676,7 @@ Performance Tuning      ██████████████████�
 ## Certifications
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
 </div>
 
 <br>
@@ -713,7 +710,7 @@ Performance Tuning      ██████████████████�
 </table>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
 </div>
 
 ---
@@ -721,7 +718,7 @@ Performance Tuning      ██████████████████�
 ## Featured Projects
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </div>
 
 <br>
@@ -851,7 +848,7 @@ Performance Tuning      ██████████████████�
 ## Publications & Research
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 </div>
 
 <br>
@@ -865,7 +862,7 @@ Performance Tuning      ██████████████████�
 ## Leadership & Impact
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="400">
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
 </div>
 
 <br>
@@ -884,7 +881,7 @@ Performance Tuning      ██████████████████�
 - **Meta Llama3 Hackathon** - Top 15 finish building analytics system using multi-agent RAG architecture (2025)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
 </div>
 
 ---
@@ -893,7 +890,7 @@ Performance Tuning      ██████████████████�
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
 ### **Performance Metrics**
 
@@ -929,7 +926,7 @@ Performance Tuning      ██████████████████�
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="800">
 </div>
 
 ---
@@ -938,11 +935,11 @@ Performance Tuning      ██████████████████�
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
 
 <br>
 
-### I'm always open to discussing **AI/ML projects**, **cloud architecture**, **data engineering**, and **software development opportunities**
+### I'm always open to discussing **AI/ML projects**, **Machine Learning Engineering**, **Data Science**, **Forward Deployment Engineering**, **cloud architecture**, **data engineering**, and **software development opportunities**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshinipr/">
@@ -988,7 +985,7 @@ San Jose, California
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
 ### *"Code with passion. Engineer with purpose. Create with vision."*
 
