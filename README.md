@@ -6,6 +6,8 @@
 <!-- Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
+<h3 align="center">ex- Oracle | ex- CGI</h3>
+
 <!-- Profile Views with Animation -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshini1708&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -112,7 +114,7 @@ Published research on **<u>distributed caching</u>** and **<u>deep learning for 
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Science"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Data Science"/>
 </div>
 
 ---
