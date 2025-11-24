@@ -66,51 +66,6 @@ Published research on **<u>distributed caching</u>** and **<u>deep learning for 
 </tr>
 </table>
 
----
-
-## 🚀 The Smart Way vs The Hard Way
-
-<div align="center">
-
-```mermaid
-graph TB
-    Start[🔍 Need an AI/ML Engineer?] --> Decision{Choose Your Path}
-
-    Decision -->|Smart Choice ✅| PathA[📧 Contact Harshini]
-    Decision -->|Hard Way ❌| PathB[🔎 Google Endlessly]
-
-    PathA --> StepA1[💼 Review Portfolio]
-    StepA1 --> StepA2[🤝 Schedule Interview]
-    StepA2 --> ResultA[🎯 Hire Top Talent]
-    ResultA --> Success[📈 Build Amazing Products]
-
-    PathB --> StepB1[⏳ Scroll Through 100+ Profiles]
-    StepB1 --> StepB2[😰 Still Can't Decide]
-    StepB2 --> ResultB[🔄 Start Over]
-    ResultB --> Frustrated[😭 Waste Time & Resources]
-
-    style Start fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
-    style PathA fill:#11998e,stroke:#38ef7d,stroke-width:3px,color:#fff
-    style PathB fill:#eb3349,stroke:#f45c43,stroke-width:3px,color:#fff
-    style Success fill:#56ab2f,stroke:#a8e063,stroke-width:3px,color:#fff
-    style Frustrated fill:#c94b4b,stroke:#4b134f,stroke-width:3px,color:#fff
-    style Decision fill:#f093fb,stroke:#f5576c,stroke-width:3px,color:#fff
-```
-
-### 💡 **Why Make It Complicated?**
-**Reach out directly** → Save weeks of searching → Get a proven **AI/ML engineer** with **3+ years** of production experience building enterprise systems at **Oracle**, **CCC**, and **SJSU**
-
-<a href="mailto:harshini.pothireddy@sjsu.edu">
-  <img src="https://img.shields.io/badge/Email_Me-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/harshini-pothireddy/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-
----
-
 ### Core Competencies:
 
 <div align="center">
@@ -840,6 +795,50 @@ Performance Tuning      ██████████████████�
 - **Meta Llama3 Hackathon** - Top 15 finish building analytics system using multi-agent RAG architecture (2025)
 
 ---
+
+## 🚀 The Smart Way vs The Hard Way
+
+<div align="center">
+
+```mermaid
+graph TB
+    Start[🔍 Need an AI/ML Engineer?] --> Decision{Choose Your Path}
+
+    Decision -->|Smart Choice ✅| PathA[📧 Contact Harshini]
+    Decision -->|Hard Way ❌| PathB[🔎 Google Endlessly]
+
+    PathA --> StepA1[💼 Review Portfolio]
+    StepA1 --> StepA2[🤝 Schedule Interview]
+    StepA2 --> ResultA[🎯 Hire Top Talent]
+    ResultA --> Success[📈 Build Amazing Products]
+
+    PathB --> StepB1[⏳ Scroll Through 100+ Profiles]
+    StepB1 --> StepB2[😰 Still Can't Decide]
+    StepB2 --> ResultB[🔄 Start Over]
+    ResultB --> Frustrated[😭 Waste Time & Resources]
+
+    style Start fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
+    style PathA fill:#11998e,stroke:#38ef7d,stroke-width:3px,color:#fff
+    style PathB fill:#eb3349,stroke:#f45c43,stroke-width:3px,color:#fff
+    style Success fill:#56ab2f,stroke:#a8e063,stroke-width:3px,color:#fff
+    style Frustrated fill:#c94b4b,stroke:#4b134f,stroke-width:3px,color:#fff
+    style Decision fill:#f093fb,stroke:#f5576c,stroke-width:3px,color:#fff
+```
+
+### 💡 **Why Make It Complicated?**
+**Reach out directly** → Save weeks of searching → Get a proven **AI/ML engineer** with **3+ years** of production experience building enterprise systems at **Oracle**, **CCC**, and **SJSU**
+
+<a href="mailto:harshini.pothireddy@sjsu.edu">
+  <img src="https://img.shields.io/badge/Email_Me-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/harshini-pothireddy/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
 
 ## GitHub Stats
 
