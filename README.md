@@ -36,6 +36,12 @@
 
 ## About Me
 
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Girl Coding"/>
+</div>
+
+<br>
+
 I'm a **Software Engineer**, **Data Scientist**, **AI Engineer**, **Machine Learning Engineer**, and **Forward Deployment Engineer** with **3+ years of experience** building enterprise-scale cloud infrastructure, AI/ML systems, and data platforms at **Oracle/AWS** and **CCC Intelligent Solutions**. Currently pursuing my **Master's in Computer Software Engineering (Data Science Specialization)** at San Jose State University.
 
 ### What I Bring to the Table:
@@ -61,6 +67,12 @@ Reduced deployment time **83%** (30min→5min), API latency **40-60%**, and infr
 
 #### 🔬 **Research & Innovation**
 Published research on **<u>distributed caching</u>** and **<u>deep learning for medical imaging</u>**, with expertise in **<u>PyTorch</u>**, **<u>TensorFlow</u>**, and **<u>transformer architectures</u>**
+
+<br>
+
+<div align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat Coding"/>
+</div>
 
 </td>
 </tr>
@@ -99,6 +111,12 @@ Published research on **<u>distributed caching</u>** and **<u>deep learning for 
 
 ---
 
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Science"/>
+</div>
+
+---
+
 ## Professional Experience
 
 ### <img src="https://marketplace.guidewire.com/sfc/servlet.shepherd/version/download/0683n00000ShXv5AAF" width="30" height="30" alt="CCC Logo"/> **AI/ML Software Engineer Intern** | CCC Intelligent Solutions
@@ -133,7 +151,7 @@ Published research on **<u>distributed caching</u>** and **<u>deep learning for 
 
 ---
 
-### <img src="https://www.sjsu.edu/brand/pics/logos-fullcolor-primarylogo-red.png" width="30" height="30" alt="SJSU Logo"/> **Graduate Research Assistant - ML/Data Science** | San Jose State University
+### <img src="https://www.gofevo.com/Upload/f513eac0-e4ce-4ba9-bf07-a53b91592818.png" width="30" height="30" alt="SJSU Logo"/> **Graduate Research Assistant - ML/Data Science** | San Jose State University
 *Dec 2024 - Apr 2025 | San Jose, CA*
 
 <details open>
@@ -241,7 +259,7 @@ Published research on **<u>distributed caching</u>** and **<u>deep learning for 
 <tr>
 <td width="50%">
 
-### <img src="https://www.sjsu.edu/brand/pics/logos-fullcolor-primarylogo-red.png" width="40" height="40" alt="SJSU Logo"/> **Master of Science in Computer Software Engineering**
+### <img src="https://www.gofevo.com/Upload/f513eac0-e4ce-4ba9-bf07-a53b91592818.png" width="40" height="40" alt="SJSU Logo"/> **Master of Science in Computer Software Engineering**
 **San Jose State University**
 *Jan 2024 - Dec 2025* | **GPA: 3.6/4.0**
 
