@@ -16,7 +16,7 @@
 
 <!-- Animated Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshinipr/">
+  <a href="https://www.linkedin.com/in/harshini-pothireddy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=20" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/harshini1708">
@@ -44,27 +44,72 @@ I'm a **Software Engineer**, **Data Scientist**, **AI Engineer**, **Machine Lear
 <tr>
 <td width="50%" valign="top">
 
-#### Enterprise Architecture
-Designed and deployed cloud-native microservices on **AWS EKS** and **OCI Kubernetes** serving **10K+ customers** and processing **2M+ daily API requests** with **99.8% uptime**
+#### 🏗️ **Enterprise Architecture**
+Designed and deployed cloud-native microservices on **<u>AWS EKS</u>** and **<u>OCI Kubernetes</u>** serving **10K+ customers** and processing **2M+ daily API requests** with **99.8% uptime**
 
-#### **AI/ML Engineering** & **Machine Learning Engineering**
-Built production ML pipelines for **multimodal fraud detection**, **NLP-based risk intelligence**, and **computer vision systems** achieving **90%+ accuracy**
+#### 🤖 **AI/ML Engineering** & **Machine Learning Engineering**
+Built production ML pipelines for **multimodal fraud detection**, **<u>NLP</u>-based risk intelligence**, and **<u>computer vision systems</u>** achieving **90%+ accuracy**
 
-#### **Data Engineering** & **Data Science**
-Developed scalable data platforms processing **300+ claims daily**, optimized **MongoDB & PostgreSQL** queries reducing latency **40-75%**, and automated infrastructure provisioning with **Terraform & CloudFormation**
+#### 📊 **Data Engineering** & **Data Science**
+Developed scalable data platforms processing **300+ claims daily**, optimized **<u>MongoDB</u>** & **<u>PostgreSQL</u>** queries reducing latency **40-75%**, and automated infrastructure provisioning with **<u>Terraform</u>** & **<u>CloudFormation</u>**
 
 </td>
 <td width="50%" valign="top">
 
-#### Performance Optimization
-Reduced deployment time **83%** (30min→5min), API latency **40-60%**, and infrastructure setup time **75%** (4hrs→15min) through intelligent caching, blue-green deployments, and automation
+#### ⚡ **Performance Optimization**
+Reduced deployment time **83%** (30min→5min), API latency **40-60%**, and infrastructure setup time **75%** (4hrs→15min) through intelligent caching, **<u>blue-green deployments</u>**, and automation
 
-#### Research & Innovation
-Published research on **distributed caching** and **deep learning for medical imaging**, with expertise in **PyTorch, TensorFlow, and transformer architectures**
+#### 🔬 **Research & Innovation**
+Published research on **<u>distributed caching</u>** and **<u>deep learning for medical imaging</u>**, with expertise in **<u>PyTorch</u>**, **<u>TensorFlow</u>**, and **<u>transformer architectures</u>**
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 The Smart Way vs The Hard Way
+
+<div align="center">
+
+```mermaid
+graph TB
+    Start[🔍 Need an AI/ML Engineer?] --> Decision{Choose Your Path}
+
+    Decision -->|Smart Choice ✅| PathA[📧 Contact Harshini]
+    Decision -->|Hard Way ❌| PathB[🔎 Google Endlessly]
+
+    PathA --> StepA1[💼 Review Portfolio]
+    StepA1 --> StepA2[🤝 Schedule Interview]
+    StepA2 --> ResultA[🎯 Hire Top Talent]
+    ResultA --> Success[📈 Build Amazing Products]
+
+    PathB --> StepB1[⏳ Scroll Through 100+ Profiles]
+    StepB1 --> StepB2[😰 Still Can't Decide]
+    StepB2 --> ResultB[🔄 Start Over]
+    ResultB --> Frustrated[😭 Waste Time & Resources]
+
+    style Start fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
+    style PathA fill:#11998e,stroke:#38ef7d,stroke-width:3px,color:#fff
+    style PathB fill:#eb3349,stroke:#f45c43,stroke-width:3px,color:#fff
+    style Success fill:#56ab2f,stroke:#a8e063,stroke-width:3px,color:#fff
+    style Frustrated fill:#c94b4b,stroke:#4b134f,stroke-width:3px,color:#fff
+    style Decision fill:#f093fb,stroke:#f5576c,stroke-width:3px,color:#fff
+```
+
+### 💡 **Why Make It Complicated?**
+**Reach out directly** → Save weeks of searching → Get a proven **AI/ML engineer** with **3+ years** of production experience building enterprise systems at **Oracle**, **CCC**, and **SJSU**
+
+<a href="mailto:harshini.pothireddy@sjsu.edu">
+  <img src="https://img.shields.io/badge/Email_Me-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/harshini-pothireddy/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
 
 ### Core Competencies:
 
@@ -133,7 +178,7 @@ Published research on **distributed caching** and **deep learning for medical im
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/San_Jose_State_Spartans_logo.svg/1200px-San_Jose_State_Spartans_logo.svg.png" width="30" height="30" alt="SJSU Logo"/> **Graduate Research Assistant - ML/Data Science** | San Jose State University
+### <img src="https://www.sjsu.edu/brand/pics/logos-fullcolor-primarylogo-red.png" width="30" height="30" alt="SJSU Logo"/> **Graduate Research Assistant - ML/Data Science** | San Jose State University
 *Dec 2024 - Apr 2025 | San Jose, CA*
 
 <details open>
@@ -241,7 +286,7 @@ Published research on **distributed caching** and **deep learning for medical im
 <tr>
 <td width="50%">
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/San_Jose_State_Spartans_logo.svg/1200px-San_Jose_State_Spartans_logo.svg.png" width="40" height="40" alt="SJSU Logo"/> **Master of Science in Computer Software Engineering**
+### <img src="https://www.sjsu.edu/brand/pics/logos-fullcolor-primarylogo-red.png" width="40" height="40" alt="SJSU Logo"/> **Master of Science in Computer Software Engineering**
 **San Jose State University**
 *Jan 2024 - Dec 2025* | **GPA: 3.6/4.0**
 
@@ -842,7 +887,7 @@ Performance Tuning      ██████████████████�
 ### I'm always open to discussing **AI/ML projects**, **Machine Learning Engineering**, **Data Science**, **Forward Deployment Engineering**, **cloud architecture**, **data engineering**, and **software development opportunities**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshinipr/">
+  <a href="https://www.linkedin.com/in/harshini-pothireddy/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshini.pothireddy@sjsu.edu">
